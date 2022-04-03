@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARaheem008
 - 👀 I’m interested in ...online work
 - 🌱 I’m currently learning ...App development
-- 💞️ I’m looking to collaborate on ...Front End Development
+- 💞️ I’m looking to collaborate on ...For my coustomer
 - 📫 How to reach me ...Contact me on Gmail
 
 <!---
